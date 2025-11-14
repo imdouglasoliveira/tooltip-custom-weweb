@@ -1,0 +1,11 @@
+{
+  "name": "tooltip-custom",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "weweb build --name=tooltip-custom",
+    "serve": "weweb serve"
+  },
+  "devDependencies": {
+    "@weweb/cli": "latest"
+  }
+}
